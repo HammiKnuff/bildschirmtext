@@ -179,6 +179,7 @@ https://lists.hanse.de/mailman/listinfo/btx
 * [Javascript BTX Server](http://members.aon.at/nkehrer/btx_server.html) von Norbert Kehrer
 * [Retrotext](https://www.acn.wtf/retrotext.html) von Anna Christina Naß
 * [btx_modem](https://github.com/Casandro/btx_modem) von Christian Berger
+* Kasetten und Diseketten mit archivierten Daten von Steffen Wernéry
 # Copyright
 
 Der Code dieses Projektes steht unter der MIT-Lizenz. Maintainer ist Michael Steil, E-Mail: mist64@mac.com
